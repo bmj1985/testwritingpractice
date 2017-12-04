@@ -1,0 +1,23 @@
+{
+  "name": "testwritingpractice",
+  "version": "1.0.0",
+  "description": "Practicing writing tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmj1985/testwritingpractice.git"
+  },
+  "author": "Brandon Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmj1985/testwritingpractice/issues"
+  },
+  "homepage": "https://github.com/bmj1985/testwritingpractice#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
